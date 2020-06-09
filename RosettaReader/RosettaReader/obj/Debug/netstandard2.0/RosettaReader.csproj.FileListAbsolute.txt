@@ -1,0 +1,14 @@
+C:\Users\micha\XamarinProjects\RosettaReader\RosettaReader\RosettaReader\bin\Debug\netstandard2.0\RosettaReader.deps.json
+C:\Users\micha\XamarinProjects\RosettaReader\RosettaReader\RosettaReader\bin\Debug\netstandard2.0\RosettaReader.dll
+C:\Users\micha\XamarinProjects\RosettaReader\RosettaReader\RosettaReader\bin\Debug\netstandard2.0\ref\RosettaReader.dll
+C:\Users\micha\XamarinProjects\RosettaReader\RosettaReader\RosettaReader\bin\Debug\netstandard2.0\RosettaReader.pdb
+C:\Users\micha\XamarinProjects\RosettaReader\RosettaReader\RosettaReader\obj\Debug\netstandard2.0\RosettaReader.csprojAssemblyReference.cache
+C:\Users\micha\XamarinProjects\RosettaReader\RosettaReader\RosettaReader\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\micha\XamarinProjects\RosettaReader\RosettaReader\RosettaReader\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\micha\XamarinProjects\RosettaReader\RosettaReader\RosettaReader\obj\Debug\netstandard2.0\RosettaReader.AssemblyInfoInputs.cache
+C:\Users\micha\XamarinProjects\RosettaReader\RosettaReader\RosettaReader\obj\Debug\netstandard2.0\RosettaReader.AssemblyInfo.cs
+C:\Users\micha\XamarinProjects\RosettaReader\RosettaReader\RosettaReader\obj\Debug\netstandard2.0\RosettaReader.csproj.CoreCompileInputs.cache
+C:\Users\micha\XamarinProjects\RosettaReader\RosettaReader\RosettaReader\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\micha\XamarinProjects\RosettaReader\RosettaReader\RosettaReader\obj\Debug\netstandard2.0\RosettaReader.dll
+C:\Users\micha\XamarinProjects\RosettaReader\RosettaReader\RosettaReader\obj\Debug\netstandard2.0\ref\RosettaReader.dll
+C:\Users\micha\XamarinProjects\RosettaReader\RosettaReader\RosettaReader\obj\Debug\netstandard2.0\RosettaReader.pdb

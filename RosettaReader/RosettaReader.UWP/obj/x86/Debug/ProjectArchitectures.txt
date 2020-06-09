@@ -1,0 +1,1 @@
+C:\Users\micha\XamarinProjects\RosettaReader\RosettaReader\RosettaReader.UWP\RosettaReader.UWP.csproj;x86
